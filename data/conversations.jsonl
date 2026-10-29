@@ -1,0 +1,390 @@
+{"split": "train", "family": "greeting_role", "question": "Hello, what do you do?", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_role", "question": "Hi! Can you introduce yourself?", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_role", "question": "Good morning. What is this chatbot for?", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_role", "question": "Who am I speaking with here?", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_role", "question": "Hey there, tell me your purpose.", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_scope", "question": "Is this a real college service?", "answer": "This campus is fictional. I can make mistakes."}
+{"split": "train", "family": "greeting_scope", "question": "Are these official campus rules?", "answer": "This campus is fictional. I can make mistakes."}
+{"split": "train", "family": "greeting_scope", "question": "Can I trust this as university advice?", "answer": "This campus is fictional. I can make mistakes."}
+{"split": "train", "family": "greeting_scope", "question": "What kind of campus is described here?", "answer": "This campus is fictional. I can make mistakes."}
+{"split": "train", "family": "greeting_scope", "question": "Is the information in this demo fictional?", "answer": "This campus is fictional. I can make mistakes."}
+{"split": "train", "family": "library_weekday", "question": "What are the weekday library hours?", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_weekday", "question": "When does the library close on Monday?", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_weekday", "question": "How early can I enter the library on a weekday?", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_weekday", "question": "Is the library open at 7 pm on Thursday?", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_weekday", "question": "Tell me the library schedule from Monday to Friday.", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_saturday", "question": "When can I visit the library on Saturday?", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_saturday", "question": "What time does the Saturday library shift end?", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_saturday", "question": "Does the library open before noon on Saturday?", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_saturday", "question": "Are Saturday library hours different from weekdays?", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_saturday", "question": "Give me the library opening and closing times for Saturday.", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_sunday", "question": "Can I use the library on Sunday?", "answer": "The library is closed on Sunday."}
+{"split": "train", "family": "library_sunday", "question": "Is Sunday a library opening day?", "answer": "The library is closed on Sunday."}
+{"split": "train", "family": "library_sunday", "question": "Does the library have Sunday study hours?", "answer": "The library is closed on Sunday."}
+{"split": "train", "family": "library_sunday", "question": "Will the library doors be open this Sunday?", "answer": "The library is closed on Sunday."}
+{"split": "train", "family": "library_sunday", "question": "Which weekend day is the library closed?", "answer": "The library is closed on Sunday."}
+{"split": "train", "family": "library_location", "question": "Where is the campus library?", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_location", "question": "Which building contains the library?", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_location", "question": "How do I find the library entrance?", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_location", "question": "Is the library near the north entrance?", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_location", "question": "Give me the library location on this demo campus.", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_loans", "question": "How long may I borrow a library book?", "answer": "Bring your campus card. Books can be borrowed for 14 days."}
+{"split": "train", "family": "library_loans", "question": "Do I need a card to check out books?", "answer": "Bring your campus card. Books can be borrowed for 14 days."}
+{"split": "train", "family": "library_loans", "question": "What is the normal book loan period?", "answer": "Bring your campus card. Books can be borrowed for 14 days."}
+{"split": "train", "family": "library_loans", "question": "Can students borrow books for two weeks?", "answer": "Bring your campus card. Books can be borrowed for 14 days."}
+{"split": "train", "family": "library_loans", "question": "What must I bring to borrow from the library?", "answer": "Bring your campus card. Books can be borrowed for 14 days."}
+{"split": "train", "family": "library_quiet", "question": "Where can I study quietly?", "answer": "Use the second floor for quiet study and the first floor for groups."}
+{"split": "train", "family": "library_quiet", "question": "Which library floor is for group projects?", "answer": "Use the second floor for quiet study and the first floor for groups."}
+{"split": "train", "family": "library_quiet", "question": "May my group talk on the second floor?", "answer": "Use the second floor for quiet study and the first floor for groups."}
+{"split": "train", "family": "library_quiet", "question": "Does the library separate quiet and group study?", "answer": "Use the second floor for quiet study and the first floor for groups."}
+{"split": "train", "family": "library_quiet", "question": "I need a silent desk. Where should I sit?", "answer": "Use the second floor for quiet study and the first floor for groups."}
+{"split": "train", "family": "parking_students", "question": "Where should students park?", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_students", "question": "Which lot is assigned to student cars?", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_students", "question": "Is student parking on the east side?", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_students", "question": "What color is the student parking area?", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_students", "question": "Point me toward the normal student car park.", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_permit", "question": "How much is a parking permit?", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_permit", "question": "Where do I request a student parking permit?", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_permit", "question": "Does the permit charge apply each term?", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_permit", "question": "Can I apply for parking through the portal?", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_permit", "question": "What is the price and application method for a permit?", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_visitors", "question": "Where can a campus visitor park?", "answer": "Visitors use the green lot, free for two hours."}
+{"split": "train", "family": "parking_visitors", "question": "Is there a free parking period for guests?", "answer": "Visitors use the green lot, free for two hours."}
+{"split": "train", "family": "parking_visitors", "question": "Which parking area is next to the welcome desk?", "answer": "Visitors use the green lot, free for two hours."}
+{"split": "train", "family": "parking_visitors", "question": "How long can visitors park without paying?", "answer": "Visitors use the green lot, free for two hours."}
+{"split": "train", "family": "parking_visitors", "question": "What color lot should a guest look for?", "answer": "Visitors use the green lot, free for two hours."}
+{"split": "train", "family": "parking_overnight", "question": "Can I leave my car overnight?", "answer": "Overnight parking is not allowed."}
+{"split": "train", "family": "parking_overnight", "question": "Is overnight parking allowed on campus?", "answer": "Overnight parking is not allowed."}
+{"split": "train", "family": "parking_overnight", "question": "May a car stay in the blue lot all night?", "answer": "Overnight parking is not allowed."}
+{"split": "train", "family": "parking_overnight", "question": "Can visitors keep a car here until morning?", "answer": "Overnight parking is not allowed."}
+{"split": "train", "family": "parking_overnight", "question": "What is the demo rule about overnight vehicles?", "answer": "Overnight parking is not allowed."}
+{"split": "train", "family": "parking_bikes", "question": "Where are the bicycle racks?", "answer": "Bike racks outside Cedar Hall are free to use."}
+{"split": "train", "family": "parking_bikes", "question": "Do I pay to park a bicycle?", "answer": "Bike racks outside Cedar Hall are free to use."}
+{"split": "train", "family": "parking_bikes", "question": "Can I lock my bike outside Cedar Hall?", "answer": "Bike racks outside Cedar Hall are free to use."}
+{"split": "train", "family": "parking_bikes", "question": "What is the campus bike parking fee?", "answer": "Bike racks outside Cedar Hall are free to use."}
+{"split": "train", "family": "parking_bikes", "question": "Tell me where to leave my bicycle during class.", "answer": "Bike racks outside Cedar Hall are free to use."}
+{"split": "train", "family": "wifi_name", "question": "What is the student Wi-Fi network called?", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_name", "question": "Which wireless network should I select?", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_name", "question": "Is DemoNet the campus student network?", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_name", "question": "Where do I choose the demo wireless network?", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_name", "question": "Give me the name of the campus Wi-Fi.", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_login", "question": "How do I sign in to DemoNet?", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_login", "question": "Which login details does student Wi-Fi use?", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_login", "question": "Does Wi-Fi accept my portal password?", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_login", "question": "What account do students use for wireless access?", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_login", "question": "Should I give you my password to connect?", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_guest", "question": "How can guests get online?", "answer": "Use DemoGuest. Get a daily code at the welcome desk."}
+{"split": "train", "family": "wifi_guest", "question": "Where do visitors obtain a Wi-Fi code?", "answer": "Use DemoGuest. Get a daily code at the welcome desk."}
+{"split": "train", "family": "wifi_guest", "question": "Which network is available without a student account?", "answer": "Use DemoGuest. Get a daily code at the welcome desk."}
+{"split": "train", "family": "wifi_guest", "question": "Does the welcome desk provide guest internet access?", "answer": "Use DemoGuest. Get a daily code at the welcome desk."}
+{"split": "train", "family": "wifi_guest", "question": "Tell me how a visitor connects to wireless internet.", "answer": "Use DemoGuest. Get a daily code at the welcome desk."}
+{"split": "train", "family": "wifi_trouble", "question": "My DemoNet connection failed. What can I try?", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_trouble", "question": "What should I do when campus Wi-Fi will not connect?", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_trouble", "question": "Who can help with repeated wireless errors?", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_trouble", "question": "Is reconnecting worth trying for DemoNet trouble?", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_trouble", "question": "Where do I report a campus network problem?", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_help_hours", "question": "When is the technical help desk open?", "answer": "The Maple Hall help desk is open from 9 am to 5 pm on weekdays."}
+{"split": "train", "family": "wifi_help_hours", "question": "What are the weekday IT support hours?", "answer": "The Maple Hall help desk is open from 9 am to 5 pm on weekdays."}
+{"split": "train", "family": "wifi_help_hours", "question": "Does the help desk close at 5 pm?", "answer": "The Maple Hall help desk is open from 9 am to 5 pm on weekdays."}
+{"split": "train", "family": "wifi_help_hours", "question": "Where and when can I ask for technical help?", "answer": "The Maple Hall help desk is open from 9 am to 5 pm on weekdays."}
+{"split": "train", "family": "wifi_help_hours", "question": "Can I get help in Maple Hall at 10 am on Tuesday?", "answer": "The Maple Hall help desk is open from 9 am to 5 pm on weekdays."}
+{"split": "train", "family": "registration_portal", "question": "How do I register for a class?", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_portal", "question": "Where is course registration located?", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_portal", "question": "Which portal section lets me select classes?", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_portal", "question": "Can students enroll through the campus portal?", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_portal", "question": "What is the first step for adding courses?", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_window", "question": "When does registration open?", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_window", "question": "What is the last day of demo registration?", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_window", "question": "Give me the course enrollment date range.", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_window", "question": "Is August 20 included in registration?", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_window", "question": "Does registration start on the first of August?", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_advisor", "question": "Who helps me choose courses?", "answer": "Ask your academic advisor about prerequisites and course choices."}
+{"split": "train", "family": "registration_advisor", "question": "How can I check whether I meet a prerequisite?", "answer": "Ask your academic advisor about prerequisites and course choices."}
+{"split": "train", "family": "registration_advisor", "question": "Should I ask an advisor before enrollment?", "answer": "Ask your academic advisor about prerequisites and course choices."}
+{"split": "train", "family": "registration_advisor", "question": "Where can I get advice about my class choices?", "answer": "Ask your academic advisor about prerequisites and course choices."}
+{"split": "train", "family": "registration_advisor", "question": "Who explains required earlier courses?", "answer": "Ask your academic advisor about prerequisites and course choices."}
+{"split": "train", "family": "registration_full", "question": "What happens when a class is full?", "answer": "Join the course waitlist in the portal. A seat is not guaranteed."}
+{"split": "train", "family": "registration_full", "question": "Can I waitlist a course through the portal?", "answer": "Join the course waitlist in the portal. A seat is not guaranteed."}
+{"split": "train", "family": "registration_full", "question": "Does joining the waitlist promise admission?", "answer": "Join the course waitlist in the portal. A seat is not guaranteed."}
+{"split": "train", "family": "registration_full", "question": "How do I request a place in an oversubscribed class?", "answer": "Join the course waitlist in the portal. A seat is not guaranteed."}
+{"split": "train", "family": "registration_full", "question": "What should I try if no seats remain?", "answer": "Join the course waitlist in the portal. A seat is not guaranteed."}
+{"split": "train", "family": "registration_drop", "question": "How do I drop a course?", "answer": "Drop courses in the portal through September 5. Ask the registrar after that."}
+{"split": "train", "family": "registration_drop", "question": "What is the last portal drop date?", "answer": "Drop courses in the portal through September 5. Ask the registrar after that."}
+{"split": "train", "family": "registration_drop", "question": "Can I remove a class by September 5?", "answer": "Drop courses in the portal through September 5. Ask the registrar after that."}
+{"split": "train", "family": "registration_drop", "question": "Who handles course changes after the drop deadline?", "answer": "Drop courses in the portal through September 5. Ask the registrar after that."}
+{"split": "train", "family": "registration_drop", "question": "Where do I cancel a course enrollment?", "answer": "Drop courses in the portal through September 5. Ask the registrar after that."}
+{"split": "train", "family": "password_link", "question": "How do I reset my portal password?", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_link", "question": "Where is the password recovery option?", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_link", "question": "I forgot my password. What should I click?", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_link", "question": "Can the sign-in page start account recovery?", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_link", "question": "Which link helps with a forgotten portal password?", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_email", "question": "Where does the password reset link arrive?", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_email", "question": "Which email address receives account recovery mail?", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_email", "question": "Should I check spam for a missing reset message?", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_email", "question": "How is the reset link delivered?", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_email", "question": "Does the portal use my registered email for recovery?", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_expiry", "question": "How long is a reset link valid?", "answer": "Reset links expire after 30 minutes. Request a new link if needed."}
+{"split": "train", "family": "password_expiry", "question": "What if my recovery link has expired?", "answer": "Reset links expire after 30 minutes. Request a new link if needed."}
+{"split": "train", "family": "password_expiry", "question": "Can I use a reset link after an hour?", "answer": "Reset links expire after 30 minutes. Request a new link if needed."}
+{"split": "train", "family": "password_expiry", "question": "When does a password reset email stop working?", "answer": "Reset links expire after 30 minutes. Request a new link if needed."}
+{"split": "train", "family": "password_expiry", "question": "Should I request another link after 30 minutes?", "answer": "Reset links expire after 30 minutes. Request a new link if needed."}
+{"split": "train", "family": "password_no_email", "question": "What if I cannot open my registered email?", "answer": "Visit the Maple Hall help desk with your campus card."}
+{"split": "train", "family": "password_no_email", "question": "How do I recover access without my old mailbox?", "answer": "Visit the Maple Hall help desk with your campus card."}
+{"split": "train", "family": "password_no_email", "question": "Who helps when email recovery is unavailable?", "answer": "Visit the Maple Hall help desk with your campus card."}
+{"split": "train", "family": "password_no_email", "question": "Must I bring identification for account recovery help?", "answer": "Visit the Maple Hall help desk with your campus card."}
+{"split": "train", "family": "password_no_email", "question": "Can the help desk assist if my mailbox is lost?", "answer": "Visit the Maple Hall help desk with your campus card."}
+{"split": "train", "family": "tuition_amount", "question": "How much is tuition per term?", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_amount", "question": "What does a term of study cost in this demo?", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_amount", "question": "Is the tuition figure real money?", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_amount", "question": "Tell me the fictional tuition amount.", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_amount", "question": "Are demo tuition credits a real currency?", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_due", "question": "When is tuition due?", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_due", "question": "What is the demo tuition deadline?", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_due", "question": "Does the fictional tuition bill fall due in September?", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_due", "question": "On which day must the demo fee be paid?", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_due", "question": "Is September 1 a real college payment date?", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_payment", "question": "Where do I view my tuition bill?", "answer": "Open Billing in the campus portal to view and pay tuition."}
+{"split": "train", "family": "tuition_payment", "question": "Which portal page handles tuition payments?", "answer": "Open Billing in the campus portal to view and pay tuition."}
+{"split": "train", "family": "tuition_payment", "question": "How do I find Billing?", "answer": "Open Billing in the campus portal to view and pay tuition."}
+{"split": "train", "family": "tuition_payment", "question": "Can I see the fee statement in the portal?", "answer": "Open Billing in the campus portal to view and pay tuition."}
+{"split": "train", "family": "tuition_payment", "question": "Where is a demo payment recorded?", "answer": "Open Billing in the campus portal to view and pay tuition."}
+{"split": "train", "family": "tuition_installments", "question": "Can I split tuition into installments?", "answer": "The finance desk in Birch Hall can arrange two equal installments."}
+{"split": "train", "family": "tuition_installments", "question": "How many installments are offered in this demo?", "answer": "The finance desk in Birch Hall can arrange two equal installments."}
+{"split": "train", "family": "tuition_installments", "question": "Who arranges a divided tuition payment?", "answer": "The finance desk in Birch Hall can arrange two equal installments."}
+{"split": "train", "family": "tuition_installments", "question": "Where is the finance desk?", "answer": "The finance desk in Birch Hall can arrange two equal installments."}
+{"split": "train", "family": "tuition_installments", "question": "Are the two tuition installments equal?", "answer": "The finance desk in Birch Hall can arrange two equal installments."}
+{"split": "train", "family": "tuition_aid", "question": "Who can explain student aid?", "answer": "Ask the Birch Hall finance desk about aid. I cannot decide eligibility."}
+{"split": "train", "family": "tuition_aid", "question": "Can you decide whether I qualify for aid?", "answer": "Ask the Birch Hall finance desk about aid. I cannot decide eligibility."}
+{"split": "train", "family": "tuition_aid", "question": "Where do I ask about financial assistance?", "answer": "Ask the Birch Hall finance desk about aid. I cannot decide eligibility."}
+{"split": "train", "family": "tuition_aid", "question": "Does the finance desk discuss aid options?", "answer": "Ask the Birch Hall finance desk about aid. I cannot decide eligibility."}
+{"split": "train", "family": "tuition_aid", "question": "Can this chatbot approve my tuition support?", "answer": "Ask the Birch Hall finance desk about aid. I cannot decide eligibility."}
+{"split": "train", "family": "goodbye_short", "question": "Goodbye.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_short", "question": "Bye for now!", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_short", "question": "That is all, thanks.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_short", "question": "See you later.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_short", "question": "I am done asking questions.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_thanks", "question": "Thanks for the help.", "answer": "You are welcome!"}
+{"split": "train", "family": "goodbye_thanks", "question": "Thank you for explaining.", "answer": "You are welcome!"}
+{"split": "train", "family": "goodbye_thanks", "question": "I appreciate the answer.", "answer": "You are welcome!"}
+{"split": "train", "family": "goodbye_thanks", "question": "That helped, cheers!", "answer": "You are welcome!"}
+{"split": "train", "family": "goodbye_thanks", "question": "Thanks, I understand now.", "answer": "You are welcome!"}
+{"split": "train", "family": "unknown_medical", "question": "Can you diagnose my headache?", "answer": "I do not know. This demo has no medical guidance."}
+{"split": "train", "family": "unknown_medical", "question": "Which medicine should I take?", "answer": "I do not know. This demo has no medical guidance."}
+{"split": "train", "family": "unknown_medical", "question": "Can this model suggest medical treatment?", "answer": "I do not know. This demo has no medical guidance."}
+{"split": "train", "family": "unknown_medical", "question": "What does this symptom mean?", "answer": "I do not know. This demo has no medical guidance."}
+{"split": "train", "family": "unknown_medical", "question": "Should I change a prescribed dose?", "answer": "I do not know. This demo has no medical guidance."}
+{"split": "train", "family": "unknown_weather", "question": "Will it rain tomorrow?", "answer": "I do not know. This demo has no live weather data."}
+{"split": "train", "family": "unknown_weather", "question": "What is the temperature outside now?", "answer": "I do not know. This demo has no live weather data."}
+{"split": "train", "family": "unknown_weather", "question": "Can you forecast next week's weather?", "answer": "I do not know. This demo has no live weather data."}
+{"split": "train", "family": "unknown_weather", "question": "Is snow expected on campus today?", "answer": "I do not know. This demo has no live weather data."}
+{"split": "train", "family": "unknown_weather", "question": "Tell me the current local weather.", "answer": "I do not know. This demo has no live weather data."}
+{"split": "train", "family": "unknown_personal", "question": "What is my current grade?", "answer": "I cannot access private student records."}
+{"split": "train", "family": "unknown_personal", "question": "Can you look up my student balance?", "answer": "I cannot access private student records."}
+{"split": "train", "family": "unknown_personal", "question": "Show me my roommate's address.", "answer": "I cannot access private student records."}
+{"split": "train", "family": "unknown_personal", "question": "What is my account password?", "answer": "I cannot access private student records."}
+{"split": "train", "family": "unknown_personal", "question": "Do you know my personal class schedule?", "answer": "I cannot access private student records."}
+{"split": "train", "family": "unknown_food", "question": "What is on the cafeteria menu?", "answer": "I do not know. Dining information is outside this demo."}
+{"split": "train", "family": "unknown_food", "question": "How much does lunch cost?", "answer": "I do not know. Dining information is outside this demo."}
+{"split": "train", "family": "unknown_food", "question": "Is the dining hall serving soup?", "answer": "I do not know. Dining information is outside this demo."}
+{"split": "train", "family": "unknown_food", "question": "Can you list campus meal plans?", "answer": "I do not know. Dining information is outside this demo."}
+{"split": "train", "family": "unknown_food", "question": "What food can I buy on campus today?", "answer": "I do not know. Dining information is outside this demo."}
+{"split": "train", "family": "unknown_schools", "question": "What are the rules at a real university?", "answer": "Check your real college website. These policies are fictional."}
+{"split": "train", "family": "unknown_schools", "question": "Does this tuition apply to my college?", "answer": "Check your real college website. These policies are fictional."}
+{"split": "train", "family": "unknown_schools", "question": "Can I use these dates at another school?", "answer": "Check your real college website. These policies are fictional."}
+{"split": "train", "family": "unknown_schools", "question": "Tell me the actual policy of my institution.", "answer": "Check your real college website. These policies are fictional."}
+{"split": "train", "family": "unknown_schools", "question": "Are these parking rules valid at any university?", "answer": "Check your real college website. These policies are fictional."}
+{"split": "train", "family": "unknown_live_actions", "question": "Please enroll me in a course.", "answer": "I cannot make bookings or change accounts."}
+{"split": "train", "family": "unknown_live_actions", "question": "Can you pay my tuition for me?", "answer": "I cannot make bookings or change accounts."}
+{"split": "train", "family": "unknown_live_actions", "question": "Reserve a parking spot in my name.", "answer": "I cannot make bookings or change accounts."}
+{"split": "train", "family": "unknown_live_actions", "question": "Change my account password now.", "answer": "I cannot make bookings or change accounts."}
+{"split": "train", "family": "unknown_live_actions", "question": "Book a study room for tomorrow.", "answer": "I cannot make bookings or change accounts."}
+{"split": "validation", "family": "orientation_first_visit", "question": "I just arrived by car and want to find the books. Help me get oriented.", "answer": "Students park in the blue east lot. The library is in Cedar Hall."}
+{"split": "validation", "family": "orientation_first_visit", "question": "On my first campus visit as a student, where do I leave the car and go to read?", "answer": "Students park in the blue east lot. The library is in Cedar Hall."}
+{"split": "validation", "family": "orientation_first_visit", "question": "Hello, I need the student lot and the library building in one answer.", "answer": "Students park in the blue east lot. The library is in Cedar Hall."}
+{"split": "validation", "family": "library_evening_transition", "question": "I finish reading at Friday closing. How long until the next opening?", "answer": "The library closes at 8 pm on Friday and opens at 10 am on Saturday."}
+{"split": "validation", "family": "library_evening_transition", "question": "What opening follows the last weekday library session?", "answer": "The library closes at 8 pm on Friday and opens at 10 am on Saturday."}
+{"split": "validation", "family": "library_evening_transition", "question": "I missed Friday's final library hour. When is the next chance to enter?", "answer": "The library closes at 8 pm on Friday and opens at 10 am on Saturday."}
+{"split": "validation", "family": "library_group_loan", "question": "Our project team needs a talking space and books to take home. What are the rules?", "answer": "Groups use the first floor. Bring a campus card to borrow books for 14 days."}
+{"split": "validation", "family": "library_group_loan", "question": "Can a study group borrow material and meet on a suitable library floor?", "answer": "Groups use the first floor. Bring a campus card to borrow books for 14 days."}
+{"split": "validation", "family": "library_group_loan", "question": "We want to discuss a book together, then check it out. What should we know?", "answer": "Groups use the first floor. Bring a campus card to borrow books for 14 days."}
+{"split": "validation", "family": "parking_student_guest_compare", "question": "My guest and I are driving separately. Do we use the same parking arrangement?", "answer": "Students use the blue east lot. Visitors use the green lot, free for two hours."}
+{"split": "validation", "family": "parking_student_guest_compare", "question": "Compare the student car rules with the rules for a short guest visit.", "answer": "Students use the blue east lot. Visitors use the green lot, free for two hours."}
+{"split": "validation", "family": "parking_student_guest_compare", "question": "I have a student permit but my visitor does not. Where should each car go?", "answer": "Students use the blue east lot. Visitors use the green lot, free for two hours."}
+{"split": "validation", "family": "wifi_two_accounts", "question": "My visiting parent and I both need internet. Explain our different sign-ins.", "answer": "Students use DemoNet with a portal login. Guests use DemoGuest with a welcome desk code."}
+{"split": "validation", "family": "wifi_two_accounts", "question": "How should a student and an unregistered guest connect their devices?", "answer": "Students use DemoNet with a portal login. Guests use DemoGuest with a welcome desk code."}
+{"split": "validation", "family": "wifi_two_accounts", "question": "Do a visitor and an enrolled student share one wireless login method?", "answer": "Students use DemoNet with a portal login. Guests use DemoGuest with a welcome desk code."}
+{"split": "validation", "family": "registration_missed_window", "question": "I forgot to enroll before August ended. Can you authorize a late seat?", "answer": "Registration ends August 20. Ask the registrar about late enrollment."}
+{"split": "validation", "family": "registration_missed_window", "question": "My enrollment window passed. Is there a person to ask about options?", "answer": "Registration ends August 20. Ask the registrar about late enrollment."}
+{"split": "validation", "family": "registration_missed_window", "question": "The registration dates are over and I still need classes. What next?", "answer": "Registration ends August 20. Ask the registrar about late enrollment."}
+{"split": "validation", "family": "password_delayed_mail", "question": "A recovery message turned up in spam after an hour. Is it still useful?", "answer": "Request a new reset link. Links expire after 30 minutes."}
+{"split": "validation", "family": "password_delayed_mail", "question": "My reset email arrived late in a filtered folder. What should I do?", "answer": "Request a new reset link. Links expire after 30 minutes."}
+{"split": "validation", "family": "password_delayed_mail", "question": "I found yesterday's password email. Can I finish recovery with it?", "answer": "Request a new reset link. Links expire after 30 minutes."}
+{"split": "validation", "family": "tuition_budget_split", "question": "What would each half of the demo tuition cost?", "answer": "Two equal installments are 300 fictional credits each."}
+{"split": "validation", "family": "tuition_budget_split", "question": "I am budgeting for the two-payment option. How many fictional credits go in each part?", "answer": "Two equal installments are 300 fictional credits each."}
+{"split": "validation", "family": "tuition_budget_split", "question": "Divide the term tuition into the offered equal portions for me.", "answer": "Two equal installments are 300 fictional credits each."}
+{"split": "validation", "family": "goodbye_official", "question": "I will use a real campus website next. Goodbye.", "answer": "Goodbye! Check your real college website for official policies."}
+{"split": "validation", "family": "goodbye_official", "question": "Thanks, I am leaving to check these ideas with my actual college.", "answer": "Goodbye! Check your real college website for official policies."}
+{"split": "validation", "family": "goodbye_official", "question": "That is enough for the demo; I will confirm real rules elsewhere.", "answer": "Goodbye! Check your real college website for official policies."}
+{"split": "validation", "family": "unknown_transport", "question": "Which bus reaches campus before the library opens?", "answer": "I do not know. Transport schedules are outside this demo."}
+{"split": "validation", "family": "unknown_transport", "question": "Does a train stop near the student car park?", "answer": "I do not know. Transport schedules are outside this demo."}
+{"split": "validation", "family": "unknown_transport", "question": "Can I get a timetable for travel to Cedar Hall?", "answer": "I do not know. Transport schedules are outside this demo."}
+{"split": "validation", "family": "orientation_boundaries", "question": "Before we start, can you explain campus information and also edit my student record?", "answer": "I can discuss fictional campus FAQs, but I cannot access or change your account."}
+{"split": "validation", "family": "orientation_boundaries", "question": "I am new here. Are you able to answer FAQs and make account changes?", "answer": "I can discuss fictional campus FAQs, but I cannot access or change your account."}
+{"split": "validation", "family": "orientation_boundaries", "question": "Hi, tell me the boundary between explaining campus rules and acting on my account.", "answer": "I can discuss fictional campus FAQs, but I cannot access or change your account."}
+{"split": "validation", "family": "library_weekend_plan", "question": "I have both weekend afternoons free. Which one can I spend inside the library?", "answer": "The library is open Saturday from 10 am to 4 pm and closed on Sunday."}
+{"split": "validation", "family": "library_weekend_plan", "question": "Help me plan a library visit across the two days of the weekend.", "answer": "The library is open Saturday from 10 am to 4 pm and closed on Sunday."}
+{"split": "validation", "family": "library_weekend_plan", "question": "Between Saturday afternoon and Sunday afternoon, which works for borrowing books?", "answer": "The library is open Saturday from 10 am to 4 pm and closed on Sunday."}
+{"split": "validation", "family": "library_card_route", "question": "I want to take a book home. Give me the building, what to carry, and the return interval.", "answer": "Bring your campus card to Cedar Hall. Books can be borrowed for 14 days."}
+{"split": "validation", "family": "library_card_route", "question": "Plan a first book checkout: destination, required card, and loan length.", "answer": "Bring your campus card to Cedar Hall. Books can be borrowed for 14 days."}
+{"split": "validation", "family": "library_card_route", "question": "What three practical details do I need before walking over to borrow a library book?", "answer": "Bring your campus card to Cedar Hall. Books can be borrowed for 14 days."}
+{"split": "validation", "family": "parking_bike_choice", "question": "Compare bringing a bicycle with bringing a student car in terms of cost and place.", "answer": "Bike racks at Cedar Hall are free. A student car permit costs 20 credits per term."}
+{"split": "validation", "family": "parking_bike_choice", "question": "I can cycle or drive to class. Explain the parking difference for those options.", "answer": "Bike racks at Cedar Hall are free. A student car permit costs 20 credits per term."}
+{"split": "validation", "family": "parking_bike_choice", "question": "Would switching from a car to a bike change my demo parking charge and location?", "answer": "Bike racks at Cedar Hall are free. A student car permit costs 20 credits per term."}
+{"split": "validation", "family": "wifi_after_hours", "question": "My connection broke at 6 pm on Wednesday. What can I try with the desk closed?", "answer": "Forget DemoNet and reconnect. The help desk is open weekdays from 9 am to 5 pm."}
+{"split": "validation", "family": "wifi_after_hours", "question": "It is a weekday evening and the wireless login fails. Give me a practical next step.", "answer": "Forget DemoNet and reconnect. The help desk is open weekdays from 9 am to 5 pm."}
+{"split": "validation", "family": "wifi_after_hours", "question": "Tech support has closed for today, but DemoNet is failing. What is the documented first fix?", "answer": "Forget DemoNet and reconnect. The help desk is open weekdays from 9 am to 5 pm."}
+{"split": "validation", "family": "registration_waitlist_advice", "question": "A required course is full and I am unsure about its prerequisite. Which two steps fit?", "answer": "Ask your advisor about prerequisites. Join the course waitlist in the portal."}
+{"split": "validation", "family": "registration_waitlist_advice", "question": "I need both course advice and a chance at a full class. Who and what can help?", "answer": "Ask your advisor about prerequisites. Join the course waitlist in the portal."}
+{"split": "validation", "family": "registration_waitlist_advice", "question": "How should I handle a prerequisite question while seeking a seat in a crowded course?", "answer": "Ask your advisor about prerequisites. Join the course waitlist in the portal."}
+{"split": "validation", "family": "password_shared_credentials", "question": "My forgotten portal credential also blocks the wireless network. Where should recovery begin?", "answer": "Choose Forgot password on the portal. DemoNet uses your portal password."}
+{"split": "validation", "family": "password_shared_credentials", "question": "One lost password keeps me out of both the portal and student Wi-Fi. What should I do?", "answer": "Choose Forgot password on the portal. DemoNet uses your portal password."}
+{"split": "validation", "family": "password_shared_credentials", "question": "Can recovering the portal login help with my DemoNet sign-in too?", "answer": "Choose Forgot password on the portal. DemoNet uses your portal password."}
+{"split": "validation", "family": "tuition_and_permit_budget", "question": "I drive to campus. What do one term's tuition and its parking permit add up to?", "answer": "Tuition plus a parking permit totals 620 fictional credits per term."}
+{"split": "validation", "family": "tuition_and_permit_budget", "question": "Combine the fictional term study fee with the student car permit charge.", "answer": "Tuition plus a parking permit totals 620 fictional credits per term."}
+{"split": "validation", "family": "tuition_and_permit_budget", "question": "What total demo budget covers tuition and a parking permit for the same term?", "answer": "Tuition plus a parking permit totals 620 fictional credits per term."}
+{"split": "validation", "family": "goodbye_limitations", "question": "I am leaving now. Remind me of one reason to be cautious about your answers.", "answer": "Goodbye! I can make mistakes. This is not official campus advice."}
+{"split": "validation", "family": "goodbye_limitations", "question": "Before I go, say farewell and explain a weakness of this tiny model.", "answer": "Goodbye! I can make mistakes. This is not official campus advice."}
+{"split": "validation", "family": "goodbye_limitations", "question": "End our chat with a reminder that generated campus statements can be wrong.", "answer": "Goodbye! I can make mistakes. This is not official campus advice."}
+{"split": "validation", "family": "unknown_employment", "question": "Is the library hiring student workers this term?", "answer": "I do not know. Job listings are outside this demo."}
+{"split": "validation", "family": "unknown_employment", "question": "Where can I see current vacancies at the campus help desk?", "answer": "I do not know. Job listings are outside this demo."}
+{"split": "validation", "family": "unknown_employment", "question": "Are paid parking attendant jobs available for students?", "answer": "I do not know. Job listings are outside this demo."}
+{"split": "train", "family": "library_schedule", "question": "What are the library hours?", "answer": "Weekdays: 8 am to 8 pm. Saturday: 10 am to 4 pm. Sunday: closed."}
+{"split": "train", "family": "library_schedule", "question": "Library opening times please.", "answer": "Weekdays: 8 am to 8 pm. Saturday: 10 am to 4 pm. Sunday: closed."}
+{"split": "train", "family": "library_schedule", "question": "Give me the full weekly library schedule.", "answer": "Weekdays: 8 am to 8 pm. Saturday: 10 am to 4 pm. Sunday: closed."}
+{"split": "train", "family": "library_schedule", "question": "When is the library open during the week and weekend?", "answer": "Weekdays: 8 am to 8 pm. Saturday: 10 am to 4 pm. Sunday: closed."}
+{"split": "train", "family": "library_schedule", "question": "Tell me all the library visiting hours.", "answer": "Weekdays: 8 am to 8 pm. Saturday: 10 am to 4 pm. Sunday: closed."}
+{"split": "train", "family": "library_short_weekdays", "question": "weekday library times", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_short_weekdays", "question": "monday library opening", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_short_weekdays", "question": "closing time for the library on tuesday", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_short_weekdays", "question": "library hours monday to friday", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_short_weekdays", "question": "wednesday library schedule", "answer": "The library opens at 8 am and closes at 8 pm on weekdays."}
+{"split": "train", "family": "library_short_weekend", "question": "saturday library time", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_short_weekend", "question": "weekend reading on saturday", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_short_weekend", "question": "opening hour for saturday at the library", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_short_weekend", "question": "library closing hour saturday", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_short_weekend", "question": "saturday afternoon library hours", "answer": "The library is open from 10 am to 4 pm on Saturday."}
+{"split": "train", "family": "library_short_location", "question": "library address", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_short_location", "question": "library building name please", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_short_location", "question": "looking for the books building", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_short_location", "question": "directions to the campus library", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "library_short_location", "question": "find the library for me", "answer": "The library is in Cedar Hall, beside the north entrance."}
+{"split": "train", "family": "parking_short", "question": "student car parking", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_short", "question": "which student lot", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_short", "question": "parking area for students please", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_short", "question": "campus parking for my car", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_short", "question": "place to park as a student", "answer": "Students park in the blue lot on the east side of campus."}
+{"split": "train", "family": "parking_short_cost", "question": "parking permit price", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_short_cost", "question": "cost of a student parking pass", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_short_cost", "question": "student permit application please", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_short_cost", "question": "term parking charge", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "parking_short_cost", "question": "how to buy a student parking pass", "answer": "A parking permit costs 20 credits per term. Apply in the portal."}
+{"split": "train", "family": "wifi_short_name", "question": "wifi name please", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_short_name", "question": "campus internet network name", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_short_name", "question": "student wireless name", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_short_name", "question": "which wifi to join", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_short_name", "question": "what is the wifi called", "answer": "The student Wi-Fi network is DemoNet."}
+{"split": "train", "family": "wifi_short_login", "question": "wifi login details", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_short_login", "question": "connect me to DemoNet", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_short_login", "question": "student internet credentials", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_short_login", "question": "how to log onto the campus wifi", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_short_login", "question": "signing into DemoNet help", "answer": "Use your student ID and portal password for DemoNet."}
+{"split": "train", "family": "wifi_short_help", "question": "wifi not working", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_short_help", "question": "DemoNet connection error", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_short_help", "question": "cannot connect to student wifi", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_short_help", "question": "campus wireless is broken", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "wifi_short_help", "question": "internet login keeps failing", "answer": "Forget DemoNet and reconnect. If that fails, visit the Maple Hall help desk."}
+{"split": "train", "family": "registration_short", "question": "course signup", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_short", "question": "registering for classes", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_short", "question": "enrollment instructions please", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_short", "question": "where to add a class", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_short", "question": "portal course enrollment help", "answer": "Open Courses in the campus portal to register."}
+{"split": "train", "family": "registration_short_dates", "question": "registration dates please", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_short_dates", "question": "enrollment deadline", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_short_dates", "question": "course signup window", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_short_dates", "question": "when does enrollment begin and end", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "registration_short_dates", "question": "dates for registering for courses", "answer": "Registration runs from August 1 through August 20."}
+{"split": "train", "family": "password_short_reset", "question": "forgot my password", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_short_reset", "question": "password reset help", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_short_reset", "question": "portal password recovery", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_short_reset", "question": "lost my login password", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_short_reset", "question": "reset portal login", "answer": "Choose Forgot password on the portal sign-in page."}
+{"split": "train", "family": "password_short_email", "question": "reset email missing", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_short_email", "question": "no recovery message arrived", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_short_email", "question": "cannot find my password email", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_short_email", "question": "where to look for the reset message", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "password_short_email", "question": "recovery mail not in inbox", "answer": "Check your registered email and its spam folder for the reset link."}
+{"split": "train", "family": "tuition_short_cost", "question": "tuition price", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_short_cost", "question": "term study fee", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_short_cost", "question": "cost to study here", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_short_cost", "question": "tuition amount please", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_short_cost", "question": "how much for a term", "answer": "Tuition is 600 fictional credits per term."}
+{"split": "train", "family": "tuition_short_due", "question": "tuition payment deadline", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_short_due", "question": "when to pay fees", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_short_due", "question": "date for the term bill", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_short_due", "question": "tuition due date please", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "tuition_short_due", "question": "last date to pay tuition", "answer": "Tuition is due on September 1."}
+{"split": "train", "family": "greeting_simple", "question": "Hello.", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_simple", "question": "Hi there.", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_simple", "question": "Hey!", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_simple", "question": "Good morning!", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "greeting_simple", "question": "Good afternoon.", "answer": "Hello! Ask me about the fictional campus."}
+{"split": "train", "family": "goodbye_simple", "question": "Bye!", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_simple", "question": "See you.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_simple", "question": "Farewell.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_simple", "question": "I need to go now.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "goodbye_simple", "question": "Talk to you another time.", "answer": "Goodbye! Thanks for trying the demo."}
+{"split": "train", "family": "unsupported_science", "question": "How do rockets reach Mars?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_science", "question": "Explain quantum physics.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_science", "question": "What powers the sun?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_science", "question": "How far away is the moon?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_science", "question": "Why do volcanoes erupt?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_creative", "question": "Write a poem.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_creative", "question": "Tell me a joke.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_creative", "question": "Make up a story.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_creative", "question": "Sing me a song.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_creative", "question": "Can you write a novel?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_general", "question": "Who won the football match?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_general", "question": "What stocks should I buy?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_general", "question": "Recommend a video game.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_general", "question": "How do I bake bread?", "answer": "I do not know. That is outside this campus demo."}
+{"split": "train", "family": "unsupported_general", "question": "Explain world politics.", "answer": "I do not know. That is outside this campus demo."}
+{"split": "test", "family": "fresh_library_early_arrival", "question": "I reached the library at seven on a school morning. How long before it opens?", "answer": "The library opens at 8 am on weekdays."}
+{"split": "test", "family": "fresh_library_early_arrival", "question": "Can I enter the library before my 8 am class on Monday?", "answer": "The library opens at 8 am on weekdays."}
+{"split": "test", "family": "fresh_library_early_arrival", "question": "If I turn up at the library at dawn on Tuesday, when will the doors open?", "answer": "The library opens at 8 am on weekdays."}
+{"split": "test", "family": "fresh_library_evening_weekend", "question": "Would the library still be open for a six o'clock study session on Saturday?", "answer": "The library closes at 4 pm on Saturday."}
+{"split": "test", "family": "fresh_library_evening_weekend", "question": "My Saturday reading group meets after five. Can we use the library then?", "answer": "The library closes at 4 pm on Saturday."}
+{"split": "test", "family": "fresh_library_evening_weekend", "question": "Is Saturday evening too late for a trip inside the campus library?", "answer": "The library closes at 4 pm on Saturday."}
+{"split": "test", "family": "fresh_parking_three_hour_guest", "question": "My visitor needs parking for three hours. Is the whole stay free?", "answer": "Visitor parking is free for two hours in the green lot. I do not know the fee after that."}
+{"split": "test", "family": "fresh_parking_three_hour_guest", "question": "Does the free guest parking period cover a visit lasting most of an afternoon?", "answer": "Visitor parking is free for two hours in the green lot. I do not know the fee after that."}
+{"split": "test", "family": "fresh_parking_three_hour_guest", "question": "Can a guest leave a car in the green lot for three hours without a charge?", "answer": "Visitor parking is free for two hours in the green lot. I do not know the fee after that."}
+{"split": "test", "family": "fresh_wifi_day_pass", "question": "Yesterday's guest network code no longer works. Where can I get today's one?", "answer": "Ask the welcome desk for a daily DemoGuest code."}
+{"split": "test", "family": "fresh_wifi_day_pass", "question": "I have returned for another campus visit and need a new guest internet code.", "answer": "Ask the welcome desk for a daily DemoGuest code."}
+{"split": "test", "family": "fresh_wifi_day_pass", "question": "Who supplies a fresh wireless code each day to visitors?", "answer": "Ask the welcome desk for a daily DemoGuest code."}
+{"split": "test", "family": "fresh_registration_queue", "question": "I joined the waitlist yesterday. Does that mean I am enrolled now?", "answer": "A waitlist place does not guarantee a seat."}
+{"split": "test", "family": "fresh_registration_queue", "question": "If I put my name on the course waiting list, is my place certain?", "answer": "A waitlist place does not guarantee a seat."}
+{"split": "test", "family": "fresh_registration_queue", "question": "Can I treat a waitlisted class as a guaranteed part of my timetable?", "answer": "A waitlist place does not guarantee a seat."}
+{"split": "test", "family": "fresh_password_security", "question": "May I paste my password here so you can fix my portal login?", "answer": "Do not share your password here. Use Forgot password on the portal."}
+{"split": "test", "family": "fresh_password_security", "question": "Would sending you my secret password help recover my account?", "answer": "Do not share your password here. Use Forgot password on the portal."}
+{"split": "test", "family": "fresh_password_security", "question": "I could tell you my password before we reset it. Is that necessary?", "answer": "Do not share your password here. Use Forgot password on the portal."}
+{"split": "test", "family": "fresh_tuition_units", "question": "Can I exchange the demo tuition credits for dollars?", "answer": "Credits are fictional units, not real currency."}
+{"split": "test", "family": "fresh_tuition_units", "question": "Are the 600 credits in my term bill an amount in real currency?", "answer": "Credits are fictional units, not real currency."}
+{"split": "test", "family": "fresh_tuition_units", "question": "Is there a real-world exchange rate for the credits mentioned by this demo?", "answer": "Credits are fictional units, not real currency."}
+{"split": "test", "family": "fresh_greeting_topic_selection", "question": "Hello, I have just opened this demo. Suggest some campus topics to ask about.", "answer": "Hello! Ask about library hours, parking, Wi-Fi, registration, or tuition."}
+{"split": "test", "family": "fresh_greeting_topic_selection", "question": "Hi there, which kinds of student questions can we explore together?", "answer": "Hello! Ask about library hours, parking, Wi-Fi, registration, or tuition."}
+{"split": "test", "family": "fresh_greeting_topic_selection", "question": "I do not know where to begin with this campus chatbot. Give me topic ideas.", "answer": "Hello! Ask about library hours, parking, Wi-Fi, registration, or tuition."}
+{"split": "test", "family": "fresh_goodbye_return", "question": "I am signing off. Will you remember our questions when I return?", "answer": "Goodbye! Each question is independent; there is no conversation memory."}
+{"split": "test", "family": "fresh_goodbye_return", "question": "Bye now, can we pick up this conversation next week with its memory intact?", "answer": "Goodbye! Each question is independent; there is no conversation memory."}
+{"split": "test", "family": "fresh_goodbye_return", "question": "I have to leave; will this chatbot keep what we discussed for my next visit?", "answer": "Goodbye! Each question is independent; there is no conversation memory."}
+{"split": "test", "family": "fresh_unknown_accommodation", "question": "Are there any student dormitory rooms available this term?", "answer": "I do not know. Housing information is outside this campus demo."}
+{"split": "test", "family": "fresh_unknown_accommodation", "question": "Can you describe the campus housing application process?", "answer": "I do not know. Housing information is outside this campus demo."}
+{"split": "test", "family": "fresh_unknown_accommodation", "question": "What is the rent for student accommodation near the library?", "answer": "I do not know. Housing information is outside this campus demo."}
