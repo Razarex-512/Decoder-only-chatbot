@@ -22,7 +22,7 @@ python -m unittest discover -s tests -v
 
 If PowerShell blocks activation, use `.\.venv\Scripts\python.exe` in place of `python`; activation is optional. The local `.venv` already contains the CPU package used for the recorded run. Only PyTorch is a direct dependency; its installer supplies its own dependencies. This runtime emits a warning that optional NumPy support is missing. The project does not use NumPy, and the tests and full workflow pass without it.
 
-The CPU index follows the [official PyTorch installation guidance](https://pytorch.org/get-started/locally/). For CUDA, choose your platform and compatible CUDA build in that official selector instead of installing a GPU package speculatively. `--device auto` uses CUDA when PyTorch reports it available, otherwise CPU. `--device cuda` fails clearly if unavailable. An RTX 4070 Laptop GPU with 8 GB VRAM was detected, but these small runs used the existing CPU environment. No CUDA package was downloaded and no GPU training was performed.
+The CPU index follows the [official PyTorch installation guidance](https://pytorch.org/get-started/locally/). For CUDA, choose your platform and compatible CUDA build in that official selector instead of installing a GPU package speculatively. `--device auto` uses CUDA when PyTorch reports it available, otherwise CPU. `--device cuda` fails clearly if unavailable. An RTX 4070 Laptop GPU with 8 GB VRAM was available for these runs, but these small runs used the existing CPU environment. No CUDA package was downloaded and no GPU training was performed.
 
 Every resource path is relative to the Python source files, so invoking `python C:\path\to\Chatbot\chat.py` from another directory also works. Generated files go in `artifacts/`, which is ignored along with `.venv` and Python caches. Chat inputs are not logged or used to update weights.
 
@@ -114,8 +114,6 @@ A question longer than 253 characters is truncated at its end to preserve all th
 
 ## Current saved progress
 
-Work is paused at the user's request for manual review. See `PROGRESS.md` for the iteration handoff. The current `artifacts/model.pt` is a version-3, 438,272-parameter model. Restart an existing chat process to load it.
-
 The saved model generates readable answers to several short, familiar campus questions. It is still **unreliable on longer or unfamiliar questions**, often producing fluent but unrelated answers, and sometimes misspelling words. The new holdout results are poor. This is a partial improvement in familiar-prompt readability, not a successful general-purpose chatbot or evidence of improved generalization.
 
 The saved weights came from a 150-epoch, width-128 answer-focused run with question augmentation and position offsets, followed by 30 refinement epochs at learning rate 0.0003 with position offsets disabled and canonical terminal punctuation. All weights originated in this project's random initialization; no external pretrained weights were used. The base run took 211.21 seconds and refinement took 43.00 seconds on CPU. Across the five development runs, measured training time was about 488 seconds, excluding setup, tests and inference. GPU training was not used.
@@ -144,8 +142,6 @@ Verbatim development output:
 >
 > **Generated:** The library opens at 8 am and closes at 8 pm on weekdays.
 
-The user's version without a question mark and with a capital H now gives exactly the same answer. This provides weekday hours only, not the full weekly schedule. Short Wi-Fi, parking and tuition prompts also generated sensible answers in the development checks. These are familiar prompts, not evidence of held-out generalization.
-
 Verbatim fresh-holdout failure:
 
 > **Question:** My visitor needs parking for three hours. Is the whole stay free?
@@ -169,19 +165,5 @@ This is a second phase starting from locally trained weights, not a fresh run. A
 All **19 CPU unit tests passed**, including tokenizer stability and unknown handling; training-only vocabulary and leakage constraints; overlength rejection; shifted targets and ignored padding; finite forward passes; future-token isolation; attention normalization and masking; padding/batch invariance; nonzero finite gradients through embeddings and Q/K/V; a deterministic 120-update synthetic overfit check; checkpoint/logit round-trip; parameter budget; greedy determinism, sampling restrictions, EOS and length caps; terminal empty/help/quit/EOF/Ctrl+C handling; answer-mask alignment and weighting; question normalization; position-jitter bounds; and augmentation target preservation. Test fixtures do not use the final holdout to set thresholds.
 
 The revised two-epoch smoke pass, bounded training/refinement runs, final held-out evaluation and scripted chat checks completed. The terminal checks covered a known-style prompt, an unfamiliar prompt, explain mode, truncation, empty input, help, quit and EOF, including invocation from another working directory. Ctrl+C was checked by injecting `KeyboardInterrupt` into the input loop. Missing-checkpoint instructions, invalid temperature and unavailable-CUDA errors were also checked. CUDA hardware execution and a physical interactive Ctrl+C keypress were not tested.
-
-Useful interview talking points:
-
-- Causal masking prevents future-target leakage; perturbing future input cannot change earlier logits.
-- Dividing by the square root of head width controls dot-product scale before softmax.
-- Position embeddings supply token order; attention alone does not encode absolute positions.
-- Next-token cross-entropy optimizes the probability assigned to observed targets, not factual correctness.
-- Gradients describe how weights affect loss; the optimizer changes weights, while inference leaves them fixed.
-- Falling training loss alongside worsening validation loss is evidence of overfitting; checkpoint selection uses validation, never final test outputs.
-- Temperature changes the concentration of the sampling distribution; it cannot create knowledge absent from learned weights.
-
-Truthful suggested resume bullet:
-
-> Implemented a tiny decoder-only language model in PyTorch from scratch, including causal multihead attention, next-token training, checkpointing, and autoregressive text generation; evaluated held-out loss and perplexity.
 
 A future extension could manually revise the corpus and compare changes using validation. If final test outputs guide revisions, that set has effectively become validation and a fresh final holdout is needed. There is no feedback database, and typing into the chatbot does not train it.
